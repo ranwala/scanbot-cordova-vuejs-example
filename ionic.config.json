@@ -1,0 +1,7 @@
+{
+  "name": "scanbot-cordova-vuejs-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}

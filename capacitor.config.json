@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "scanbot-cordova-vuejs-example",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
